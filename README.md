@@ -3,4 +3,4 @@ Designed simple card using HTML and CSS
 
 # Used Technologies
 HTML5
-CSS#
+CSS3
